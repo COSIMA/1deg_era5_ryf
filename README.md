@@ -1,5 +1,5 @@
 # 1deg_era5_iaf
-Standard configuration for 1 degree [ACCESS-OM2](https://github.com/COSIMA/access-om2) experiment (ACCESS-OM2) with ERA5 interannual forcing (IAF).
+Standard configuration for 1 degree [ACCESS-OM2](https://github.com/COSIMA/access-om2) experiment (ACCESS-OM2) with ERA5 1 May 1990 - 30 April 1991 repeat-year forcing (RYF9091).
 
 For usage instructions, see the [ACCESS-OM2 wiki](https://github.com/COSIMA/access-om2/wiki).
 
