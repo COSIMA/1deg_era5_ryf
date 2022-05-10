@@ -2,911 +2,911 @@ format: yamanifest
 version: 1.0
 ---
 work/accessom2_restart.nml:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/accessom2_restart.nml
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/accessom2_restart.nml
   hashes:
-    binhash: ad12ffd84e0ba60e4581448f56339db4
-    md5: 0754180c6995de77678dc81a7d4a77b1
+    binhash: 1de439557449201fec03d3a5f3478588
+    md5: 100c50de5de285c1fb760993b0e890de
 work/ice/RESTART/grid.nc:
   copy: true
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ice/grid.nc
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ice/grid.nc
   hashes:
-    binhash: e5a736768cf53edcb4bacf68c62b5c19
+    binhash: fb515f95a8ab45b2731d5e179dedeaa8
     md5: 1213e346055ee073fe33dc12578d99c6
 work/ice/RESTART/i2o.nc:
   copy: true
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ice/i2o.nc
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ice/i2o.nc
   hashes:
-    binhash: adfd221ee97de2a38c0e5f8a0c9a1490
-    md5: 83c1bcaa2329f7cb69a8d96195e9117d
+    binhash: 092e415821168149ce5cf6cef0f447bd
+    md5: 843507839aac6107d788fbc9444b54eb
 work/ice/RESTART/ice.restart_file:
   copy: true
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ice/ice.restart_file
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ice/ice.restart_file
   hashes:
-    binhash: 20503c665f28c70a152434c2c2c6be0f
-    md5: 54437b0190bdff3ad866475336077ba8
-work/ice/RESTART/iced.1903-01-01-00000.nc:
+    binhash: 68fa801e4520f1d692699c425e4fcc34
+    md5: 14eaa9cddf7351aa464f04b680a22b37
+work/ice/RESTART/iced.1904-01-01-00000.nc:
   copy: true
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ice/iced.1903-01-01-00000.nc
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ice/iced.1904-01-01-00000.nc
   hashes:
-    binhash: 4c8985ead223a3ab942e3b85d0ff4bdc
-    md5: 8327c343d4cc67fa23cbf4debdcd7e62
+    binhash: 59c9605667f39cfdbf37222aecef5e7a
+    md5: ef4c5a9d7d570d927d46928b51f4b4d9
 work/ice/RESTART/kmt.nc:
   copy: true
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ice/kmt.nc
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ice/kmt.nc
   hashes:
-    binhash: 098bfb63c97fac83c20be99f7e2c6746
+    binhash: 72bb0930450c73e4ae27d13452771e29
     md5: 1f9806c646a620378e5257e480bc9df7
 work/ice/RESTART/monthly_sstsss.nc:
   copy: true
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ice/monthly_sstsss.nc
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ice/monthly_sstsss.nc
   hashes:
-    binhash: 4bb9f9c6364819179fb01331fb7a3290
+    binhash: 2fd9c72d290eeb7041f83dc1e1116611
     md5: 323d4c605f83f4d7d3126da70153c2ed
 work/ice/RESTART/o2i.nc:
   copy: true
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ice/o2i.nc
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ice/o2i.nc
   hashes:
-    binhash: 851cb7e39f12afaf2a897a2ba6330adf
-    md5: ae9001aa5b1035990637dd0d1479609a
+    binhash: 1e86ac2ba3272632230a4e8f6f65fd81
+    md5: 09e37bc7c5273f663f913697943cdf26
 work/ice/RESTART/sicemass.nc:
   copy: true
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ice/sicemass.nc
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ice/sicemass.nc
   hashes:
-    binhash: 893b8a1d80197343b42978f7e9b327ec
-    md5: 4cb939a9ae0e8bb78cfd4334bff47d42
+    binhash: 6996e9057b40357df7a070d866092e55
+    md5: 0b44106266a2c94933aed8574a887f90
 work/ice/RESTART/u_star.nc:
   copy: true
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ice/u_star.nc
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ice/u_star.nc
   hashes:
-    binhash: 26f6316ce03f3a9a8b54ea6aa28fca44
-    md5: 796f7ac230443d6d2421bf56e195d2e5
+    binhash: 87805ab0d4319b93f9281fe690c8b124
+    md5: 0062fdbeb4d04a8260c108665b50558c
 work/ocean/INPUT/ocean_age.res.nc.0000:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_age.res.nc.0000
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_age.res.nc.0000
   hashes:
-    binhash: 56ae2a820cce9af75588730deaecc980
-    md5: 9a07fa41040ef206e54d19dc10ddb8f5
+    binhash: 609afc2fd303efe057b1038ec847ccef
+    md5: edeced1f880c6ddff72212b442b81df5
 work/ocean/INPUT/ocean_age.res.nc.0001:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_age.res.nc.0001
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_age.res.nc.0001
   hashes:
-    binhash: be8e3019bd08437b256bd754f4fee577
-    md5: 182a84a9f9124414c1627db07757a047
+    binhash: c122fe045f7da7507d9f66c45e35290e
+    md5: a1468f36167709204a380f6ffcfb6da6
 work/ocean/INPUT/ocean_age.res.nc.0002:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_age.res.nc.0002
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_age.res.nc.0002
   hashes:
-    binhash: 957a6907b38d7d474096313c2de4cc20
-    md5: d75269cf6f0950469c5224ce25961fa2
+    binhash: c42eaf2a94286d9d9fd956cd8c8fe26b
+    md5: aa1aa785388d6979c99d48615a6161a7
 work/ocean/INPUT/ocean_age.res.nc.0003:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_age.res.nc.0003
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_age.res.nc.0003
   hashes:
-    binhash: 2f4db3ec6edc19c6ff5c37a571df2cd1
-    md5: 64d8694f6b2ec6aa9f54d4dd1afec4df
+    binhash: c59ffda3825613b125f9abb09651845c
+    md5: dcd239ff2cbc2101035585a073ab5549
 work/ocean/INPUT/ocean_age.res.nc.0004:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_age.res.nc.0004
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_age.res.nc.0004
   hashes:
-    binhash: 4ff2e402386c2e082949600f1e92f1e2
-    md5: 2090dcda1a6066429f6fb12bff4e106d
+    binhash: db751379e32a5618ceb6b054e8f93208
+    md5: 06a254a9e0156d9b7cde1aac069eea07
 work/ocean/INPUT/ocean_age.res.nc.0005:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_age.res.nc.0005
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_age.res.nc.0005
   hashes:
-    binhash: 241ab9921df60e90558ca3891aa20a85
-    md5: 6eb08f1193098eba88ece4407c706959
+    binhash: b078a6583ceeca25c276d15852b8c35e
+    md5: 0110987d25e2cc6277d365219addebec
 work/ocean/INPUT/ocean_age.res.nc.0006:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_age.res.nc.0006
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_age.res.nc.0006
   hashes:
-    binhash: 06e22adad2b71952556193f9172cd1cc
-    md5: a601c4482414127d54111722a520522c
+    binhash: b25c9f12cfd9e4bacf1b9697b93d0b93
+    md5: 94dc017843894a0c8e5d936895ed9c70
 work/ocean/INPUT/ocean_age.res.nc.0007:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_age.res.nc.0007
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_age.res.nc.0007
   hashes:
-    binhash: f96e0d5d00802e53d6e35f01a0d7428d
-    md5: d667efb50222e57762cda873efd74b1d
+    binhash: d7ef1f8294fabbe31a73f267f55dfc50
+    md5: 501de2f678fb252f368d511de34ba926
 work/ocean/INPUT/ocean_age.res.nc.0008:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_age.res.nc.0008
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_age.res.nc.0008
   hashes:
-    binhash: b114060b700a6dd5ac5893221a99722e
-    md5: e548ed103809293a9a39c780f723c42b
+    binhash: e29f6b7a6a0bb16ce8ac37c3bb0ad9f7
+    md5: 8b3f4304714785df9411c7450b342dfb
 work/ocean/INPUT/ocean_age.res.nc.0009:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_age.res.nc.0009
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_age.res.nc.0009
   hashes:
-    binhash: 9fec50b9b36f3022ccea86346996810a
-    md5: 2f0004a9c2f4bc2f44e3250757f1561a
+    binhash: e9b3b8400c6081531bd3421024b91bc1
+    md5: cb325b94aceb8473677b80dff4bff842
 work/ocean/INPUT/ocean_age.res.nc.0010:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_age.res.nc.0010
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_age.res.nc.0010
   hashes:
-    binhash: 8c18e8fd318bb5bb5c4dc0dbaca568cc
-    md5: 7a5fd4e7a26a48d3f73c5724e66a39df
+    binhash: 38fcb62086fb7457c86875430e43669a
+    md5: 5395b47f3e764764deab4da813aea42e
 work/ocean/INPUT/ocean_age.res.nc.0011:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_age.res.nc.0011
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_age.res.nc.0011
   hashes:
-    binhash: a2e1b223f8ed05efb4a65f38a9eb8a58
-    md5: fe1e5970f118e2d1e1698dfff87d495f
+    binhash: c9d41844f3d59470ce9d27eef77793b6
+    md5: 8f415cd967d6f7faff00b334c2afa4cc
 work/ocean/INPUT/ocean_barotropic.res.nc.0000:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_barotropic.res.nc.0000
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_barotropic.res.nc.0000
   hashes:
-    binhash: a9d0c430125b094d92db789609accf96
-    md5: 322a334f952264b5494d10c3b48f1b29
+    binhash: d847f7586b34ae132e9792ec86768dc8
+    md5: 153a094b9ae201c93bc0308bc901452e
 work/ocean/INPUT/ocean_barotropic.res.nc.0001:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_barotropic.res.nc.0001
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_barotropic.res.nc.0001
   hashes:
-    binhash: c4394e01b9ba68971d48de75fcb41e23
-    md5: 961390967026a23cc1a16fff902abdf5
+    binhash: 7fddbae6ce37e70d13d9fd7355e82761
+    md5: 186c462121571d31e8e0b352e88e7fda
 work/ocean/INPUT/ocean_barotropic.res.nc.0002:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_barotropic.res.nc.0002
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_barotropic.res.nc.0002
   hashes:
-    binhash: 599c2997b9f07e972907b3050430f530
-    md5: 6abf391d368034c4212807c6bcbc35dd
+    binhash: 48379b73942014b036707c0b342c17fd
+    md5: 624ee78284e2b063a8c8ab8f9af6c808
 work/ocean/INPUT/ocean_barotropic.res.nc.0003:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_barotropic.res.nc.0003
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_barotropic.res.nc.0003
   hashes:
-    binhash: cc46ab1a2f005f344d0a98a13879ed88
-    md5: e810750874821aa0d6105f2591d0e912
+    binhash: 835d7e2992f673f8337a663bc6db3e68
+    md5: ec22f3c821545264a7ce50f69d4914ea
 work/ocean/INPUT/ocean_barotropic.res.nc.0004:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_barotropic.res.nc.0004
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_barotropic.res.nc.0004
   hashes:
-    binhash: 0e998e719d44c24859261b10d6f14c63
-    md5: 994846f8ef40dc98fd1fa8186bd4c94f
+    binhash: d326435076c53b760e65cb8427b7689a
+    md5: 490cb16776b089dc5ffe924f2596f9c3
 work/ocean/INPUT/ocean_barotropic.res.nc.0005:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_barotropic.res.nc.0005
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_barotropic.res.nc.0005
   hashes:
-    binhash: 6e8a936252a93360d9a5eefad31453da
-    md5: cdc32c0eb69ff6ea0c20951ec8c49454
+    binhash: f205f859a2ba723abadc4301bbb3e8a7
+    md5: 3b129621a1f6b9bc86d60963afe8495b
 work/ocean/INPUT/ocean_barotropic.res.nc.0006:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_barotropic.res.nc.0006
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_barotropic.res.nc.0006
   hashes:
-    binhash: 7cab5f1e04f07802c29d209e3cbee128
-    md5: 3e4b66abfc2fc03758e5446583e18131
+    binhash: 66ebf55a13e339ad008dd1c994bbbf32
+    md5: ee86c4117a98e28ef11a82da012e22eb
 work/ocean/INPUT/ocean_barotropic.res.nc.0007:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_barotropic.res.nc.0007
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_barotropic.res.nc.0007
   hashes:
-    binhash: 1e755d902b1dcb6a3ff7f26edc6df557
-    md5: faa8a6dd1af4a2306da56c8e2fdcf64e
+    binhash: 9785cac04b98e780274c2d31f29acb77
+    md5: b379ce381a2ab2697edf6aa2b608a9d1
 work/ocean/INPUT/ocean_barotropic.res.nc.0008:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_barotropic.res.nc.0008
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_barotropic.res.nc.0008
   hashes:
-    binhash: a5d50ee44851b3a6fe49e5b390884092
-    md5: a5d69a1d15cf4e2117acc7a8e05e0eb9
+    binhash: 2aceb57d41035617de763e480d640621
+    md5: 908311ab1b2dee585c58ea6f01d283fe
 work/ocean/INPUT/ocean_barotropic.res.nc.0009:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_barotropic.res.nc.0009
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_barotropic.res.nc.0009
   hashes:
-    binhash: 2cc3c060bb633998416096fcb5221723
-    md5: dc8f81b00fe32525a9291eba347908d2
+    binhash: 033d188bb63d6b031b325cdda54cd3d4
+    md5: b54ea4a6daa41bb788a0f00bd97f8238
 work/ocean/INPUT/ocean_barotropic.res.nc.0010:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_barotropic.res.nc.0010
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_barotropic.res.nc.0010
   hashes:
-    binhash: efc1ac656cabb6897612b07ccfa8ae05
-    md5: fcdcd1b358b81ae22fdbf44236c35795
+    binhash: 1b4eada1c206225be42a3910d14b7fa9
+    md5: 39a18d2c09aac763231425b311521c51
 work/ocean/INPUT/ocean_barotropic.res.nc.0011:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_barotropic.res.nc.0011
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_barotropic.res.nc.0011
   hashes:
-    binhash: 9edf6cacc7daa2a5f7632dcb0664b147
-    md5: daeb38d8fc0b44f3ec96647558039570
+    binhash: 8a7001541f3f18a9a2425ab3a979ac39
+    md5: 49ff8d4a94c46b65e3be22b8e284dd9b
 work/ocean/INPUT/ocean_bih_friction.res.nc.0000:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_bih_friction.res.nc.0000
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_bih_friction.res.nc.0000
   hashes:
-    binhash: 02e3ec76810110ed0086175a6b2ef816
-    md5: f40c4eb5fa09902baa919a8f711b5de5
+    binhash: aaee8479ac370d8c3648eb2f740cfd35
+    md5: 758011020803d6f1f04b8c91e19511c3
 work/ocean/INPUT/ocean_bih_friction.res.nc.0001:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_bih_friction.res.nc.0001
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_bih_friction.res.nc.0001
   hashes:
-    binhash: 0eeef804383825c30be3550cf7db206f
-    md5: f38e17932ce42dbefd8d0798c60990fd
+    binhash: d2c589d7f3782b6899e49c300f12c076
+    md5: 9829f4c0ed83f296e165c20923f3588f
 work/ocean/INPUT/ocean_bih_friction.res.nc.0002:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_bih_friction.res.nc.0002
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_bih_friction.res.nc.0002
   hashes:
-    binhash: 843941b7cfff4d66eea733059a7e1fa9
-    md5: 29241f3e1c82195a9410353a82d351d5
+    binhash: 73196a1cd3845d9d2e6671e6c28f385b
+    md5: a9e243d6db9955f0f7fddd6367a26104
 work/ocean/INPUT/ocean_bih_friction.res.nc.0003:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_bih_friction.res.nc.0003
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_bih_friction.res.nc.0003
   hashes:
-    binhash: f6314408dfa229578d34ffc8db2e7f73
-    md5: b7f85ba15a1c0a64eb93a9eaf2403920
+    binhash: 2dc9ef00a3928b93b9b1d3784a6e2fe6
+    md5: 2cdc1314e5fab2b6ec2f2c821cc9be77
 work/ocean/INPUT/ocean_bih_friction.res.nc.0004:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_bih_friction.res.nc.0004
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_bih_friction.res.nc.0004
   hashes:
-    binhash: ed5b6889f12976658077dab8743a13ef
-    md5: 1ac9826d0dff189aa9464ce88d022233
+    binhash: 7d2000090e4294fdad7811c215053d6d
+    md5: b403b2ff2047773780b99e0fa5e236da
 work/ocean/INPUT/ocean_bih_friction.res.nc.0005:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_bih_friction.res.nc.0005
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_bih_friction.res.nc.0005
   hashes:
-    binhash: aa8a96374f044ae912471860f864e34b
-    md5: 731604293fa021c074f30d864e5798d5
+    binhash: 18d0ec6fd76d8d18915f92b17936e100
+    md5: af62554b7e46dc125fb602f2cbc5e466
 work/ocean/INPUT/ocean_bih_friction.res.nc.0006:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_bih_friction.res.nc.0006
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_bih_friction.res.nc.0006
   hashes:
-    binhash: 701ddcd470ba96ab86dfdff878a0f17f
-    md5: 564adc6e87c2fb6616d203afac4ec69d
+    binhash: cbb10cdc5b2df11f8538b81610343bfa
+    md5: c38fa27f957fbd702c66d7cd274c35e8
 work/ocean/INPUT/ocean_bih_friction.res.nc.0007:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_bih_friction.res.nc.0007
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_bih_friction.res.nc.0007
   hashes:
-    binhash: 8190306f93f396881ef4740b3eecbcc7
-    md5: 4601fdccaac7a56fdc6b4287ceefca5a
+    binhash: 88d4c02a78c26e7753c568d1e6776016
+    md5: 4d15d09eb80dd4bf3da53aab7d0757e4
 work/ocean/INPUT/ocean_bih_friction.res.nc.0008:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_bih_friction.res.nc.0008
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_bih_friction.res.nc.0008
   hashes:
-    binhash: 7d3fd51986f34f3177b9917405efa5db
-    md5: 3f6bb4b49a753127433a7db3421852ec
+    binhash: 58eb24ce0b5e31b816d050d44101fe80
+    md5: ba924d4cca70b866cd48809a16cfb0a3
 work/ocean/INPUT/ocean_bih_friction.res.nc.0009:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_bih_friction.res.nc.0009
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_bih_friction.res.nc.0009
   hashes:
-    binhash: 42366b2e5f19daf8f1e9fdff18f71d15
-    md5: c436bd60ef66f90ff5c7fafede50a594
+    binhash: 8b579bb11f971620d0fa40271a56b76a
+    md5: df87b3df6b819e41f40ace005e170be1
 work/ocean/INPUT/ocean_bih_friction.res.nc.0010:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_bih_friction.res.nc.0010
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_bih_friction.res.nc.0010
   hashes:
-    binhash: 5005291cb239cf0b789b575d1bb0b484
-    md5: 822d4c9aae01dff50ee5400b18e2f94a
+    binhash: 6a1437dfa106cf3974a85eb21c2aeea7
+    md5: 717a02b1f5e001583a8af931c04c6288
 work/ocean/INPUT/ocean_bih_friction.res.nc.0011:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_bih_friction.res.nc.0011
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_bih_friction.res.nc.0011
   hashes:
-    binhash: 1cc29b7d2f7859c59e14fefe4abfbbdf
-    md5: b4ee6590e8f4eb1f7d685b59e5894d27
+    binhash: 49d3a7eec50dfda1078ef8d83d15e7b5
+    md5: d180a296671e346692b3878565700428
 work/ocean/INPUT/ocean_density.res.nc.0000:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_density.res.nc.0000
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_density.res.nc.0000
   hashes:
-    binhash: b2e7c817748838e3ea5734d0538741da
-    md5: 51fa81f58b0cd67cfcf1f1e606a05675
+    binhash: 56a7c062fdd319ed1ad8455c152eb1c3
+    md5: 5decd531096a3890e767e4093720dc11
 work/ocean/INPUT/ocean_density.res.nc.0001:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_density.res.nc.0001
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_density.res.nc.0001
   hashes:
-    binhash: ce3c3531b5b78348a070dc4b8fa0fc80
-    md5: 27679367f563aaaee0617de8d65bb176
+    binhash: cf2a6b5715419b7a7ee539546dcb0238
+    md5: 630eb0eba0d75596f9a8761404ddde5a
 work/ocean/INPUT/ocean_density.res.nc.0002:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_density.res.nc.0002
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_density.res.nc.0002
   hashes:
-    binhash: 7c30c10278e9512829a4917af187679a
-    md5: 1a18867d176c7fd5b91f1309efacefb4
+    binhash: 8eef433f2f73df6c65682e6b44ed4d3d
+    md5: 2d4ec5a6152b226f3e9822b49a427060
 work/ocean/INPUT/ocean_density.res.nc.0003:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_density.res.nc.0003
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_density.res.nc.0003
   hashes:
-    binhash: 2e8e708d840875d7a5f4fe7af7a8f17b
-    md5: 00ea47aa3292d653f3715b9721a77ed5
+    binhash: 0108d1d584fbdbf8279729831e1a5ec3
+    md5: 23b087b41579861a242c9968704c9ad1
 work/ocean/INPUT/ocean_density.res.nc.0004:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_density.res.nc.0004
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_density.res.nc.0004
   hashes:
-    binhash: a2cd1c5a28cdafd043844d8d174b680c
-    md5: 18e3aa9548169e5d54302e059ed7041a
+    binhash: 99975ad1af4583c3e2c70adb0ffb1820
+    md5: 787664e7e501bdd7b84a77ef661d820b
 work/ocean/INPUT/ocean_density.res.nc.0005:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_density.res.nc.0005
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_density.res.nc.0005
   hashes:
-    binhash: 2d654f0c2a2a267cde471efc98ceddf6
-    md5: 2a53ad45e36761d90af444f1c856611d
+    binhash: dcf2064d5c9cb7c198e2e9ba704d14fe
+    md5: d286a1d431e8e331347a843c8130b61b
 work/ocean/INPUT/ocean_density.res.nc.0006:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_density.res.nc.0006
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_density.res.nc.0006
   hashes:
-    binhash: e690b0a96adecfb1c1cbe90f381b4d35
-    md5: a98206fb02ec5dbddecbf156dcf1cd01
+    binhash: ee6305a31bfe42b6e67fbce19a28bcb0
+    md5: 25c50f5486577554af9a4b0cea08a212
 work/ocean/INPUT/ocean_density.res.nc.0007:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_density.res.nc.0007
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_density.res.nc.0007
   hashes:
-    binhash: 93bca59234d468f13332d91785adbe4f
-    md5: baf786c70c4b33c926ab30763e2de39a
+    binhash: a4a5355872e8ca5ea2181c94abca8bd0
+    md5: 1add963c69d800fbf28f3e22424d94c6
 work/ocean/INPUT/ocean_density.res.nc.0008:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_density.res.nc.0008
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_density.res.nc.0008
   hashes:
-    binhash: 864c0f7a41ff5b4cb7bc15b43e8aabaf
-    md5: 55bd938bdd523d2058642d31186b708e
+    binhash: 37f82746c6964591a1b517439a4d1e27
+    md5: 7b54dd9bdca52afac099dec4a074255c
 work/ocean/INPUT/ocean_density.res.nc.0009:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_density.res.nc.0009
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_density.res.nc.0009
   hashes:
-    binhash: e5c4c3eaf848d5618ccc05a8171ff959
-    md5: 9d7057f810b1ba26475db62c30f6f54e
+    binhash: 53db4fed890f2d4d08575cb8bc9ffd0e
+    md5: 6c94b54360001015aa84ef1a0939116a
 work/ocean/INPUT/ocean_density.res.nc.0010:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_density.res.nc.0010
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_density.res.nc.0010
   hashes:
-    binhash: 7576d13f458934b4b3d181610a2923d9
-    md5: 2adcd996649b4a45683986a8216542b6
+    binhash: a6e2add5375165ff5068f822d4c7775c
+    md5: 7a7fcd606bb888cd6c5251dbadcd063a
 work/ocean/INPUT/ocean_density.res.nc.0011:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_density.res.nc.0011
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_density.res.nc.0011
   hashes:
-    binhash: 90e489294112c6b8422326c14b41f3c1
-    md5: 168c5487b60d9bcdc685294efd7a25c2
+    binhash: 6dcb6ff80bf92f9b238ad4301af4fc47
+    md5: 6ee34cbf3840f7d4ecd6471c4f6d5eee
 work/ocean/INPUT/ocean_frazil.res.nc.0000:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_frazil.res.nc.0000
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_frazil.res.nc.0000
   hashes:
-    binhash: 74ce7db31162491601a85be36a53255e
-    md5: 3e4c9fbe47f57020f4a3a824528508c3
+    binhash: 4d1cea41b10204d5dcf563a769fa1730
+    md5: fe6abbc15946a1ad451416f6f0576a9e
 work/ocean/INPUT/ocean_frazil.res.nc.0001:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_frazil.res.nc.0001
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_frazil.res.nc.0001
   hashes:
-    binhash: ad5ed0554ed37f31fed1e340476d6bb9
-    md5: bf23beb82c78e8f67db8fc79c37da91e
+    binhash: ea91157723a1348a38f05e851cd6fdee
+    md5: 5495af940ab712bc07e5e5c775856b02
 work/ocean/INPUT/ocean_frazil.res.nc.0002:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_frazil.res.nc.0002
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_frazil.res.nc.0002
   hashes:
-    binhash: af5934d4ebc2b9814c28ae4285405a9e
-    md5: 17b0967fc9dc81f6073911997871bd8b
+    binhash: 349c7d850d2ead5cf1ece34ec2c5ce38
+    md5: bfb33e2691a33e8744526fdc48ca2a04
 work/ocean/INPUT/ocean_frazil.res.nc.0003:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_frazil.res.nc.0003
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_frazil.res.nc.0003
   hashes:
-    binhash: 2c268e8c0059ee5d48d8f11f5db26099
-    md5: d4e756846c547d8a4b8e67c52deccf50
+    binhash: ac7d1d9c1c6e403e4ca680c27a56495b
+    md5: 959ef608c837dc5287d40f103ec53c21
 work/ocean/INPUT/ocean_frazil.res.nc.0004:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_frazil.res.nc.0004
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_frazil.res.nc.0004
   hashes:
-    binhash: 8119060018c207110d53d82b8314cc38
-    md5: df37f3749a39fad3065ae785b635bfd9
+    binhash: ac9c1e1afe4adfcfc2bf889c2309b61d
+    md5: 9a72e9827c54f755d4836b06f82d694a
 work/ocean/INPUT/ocean_frazil.res.nc.0005:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_frazil.res.nc.0005
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_frazil.res.nc.0005
   hashes:
-    binhash: 9a73a3ef208a8957bf365ddffa451538
-    md5: c512aa15191d3ec8b6f295f7a6d6bd65
+    binhash: 8b661fe560bc9bf6eef7b9752a009faa
+    md5: 0eecb96b6309292eeb8b6f405d391a0a
 work/ocean/INPUT/ocean_frazil.res.nc.0006:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_frazil.res.nc.0006
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_frazil.res.nc.0006
   hashes:
-    binhash: 0b26e36528ecb893b506adce61a7ab06
-    md5: 484e315ab88156ad15abfa93f444d5fb
+    binhash: 95332732ca5656d54ff0b7f5d4ffbb40
+    md5: 0987cafa4112852390fe8ea4915fe2f4
 work/ocean/INPUT/ocean_frazil.res.nc.0007:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_frazil.res.nc.0007
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_frazil.res.nc.0007
   hashes:
-    binhash: f0a5a207f6ec5f47619fec9cea592fd2
-    md5: 7ddf86cc73b0fdec1d4217588646b795
+    binhash: 1b6bc6fc6014d02b8082b20bb9d4d8e4
+    md5: 2064208d4f459ac8c5319051f5d4ee70
 work/ocean/INPUT/ocean_frazil.res.nc.0008:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_frazil.res.nc.0008
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_frazil.res.nc.0008
   hashes:
-    binhash: d1f5289d0c7b2ebd1fee8f6bba1176f1
-    md5: a37d3c63e5406697f107215704846793
+    binhash: cfe9bdee7236f8e82f5e4eb28b76b2a1
+    md5: 0068655e25f595a74a8116af132fdf81
 work/ocean/INPUT/ocean_frazil.res.nc.0009:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_frazil.res.nc.0009
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_frazil.res.nc.0009
   hashes:
-    binhash: e700e28454af3156154720e4b097af1a
-    md5: 51c8a1cd51a2e5a226c94502fb4f656d
+    binhash: 9ad75f7e0269b6cee095a889a698e99c
+    md5: fdf736129735b1f5fce7829c3e01755e
 work/ocean/INPUT/ocean_frazil.res.nc.0010:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_frazil.res.nc.0010
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_frazil.res.nc.0010
   hashes:
-    binhash: 147af5f0253eff511e7048aab38f4202
-    md5: 504e3cee87c6abd36fdd21ecb1c27de1
+    binhash: 8aceb467ac32ea859e41a34294a0705f
+    md5: 1bbaa40e8f903c87b8783b58b48d2c7d
 work/ocean/INPUT/ocean_frazil.res.nc.0011:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_frazil.res.nc.0011
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_frazil.res.nc.0011
   hashes:
-    binhash: 3f9a32d3dd21e6b24ee4faa4591b0f9e
-    md5: 77bb8e7c3b8acbb7831bf9088ef502c9
+    binhash: b4fc16943c4374b6187cee36c43415dd
+    md5: a5d3f777d84ff9ec22cbb5b1349dc8a0
 work/ocean/INPUT/ocean_lap_friction.res.nc.0000:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_lap_friction.res.nc.0000
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_lap_friction.res.nc.0000
   hashes:
-    binhash: 565d4f040ea05dd175d2d57e261f75ed
-    md5: 9115e64d6a46f1770fe71fff32471397
+    binhash: ac9d4dfc9889f8fc607586d8fe417116
+    md5: 91a27b305f2b58e5117c3a5415629538
 work/ocean/INPUT/ocean_lap_friction.res.nc.0001:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_lap_friction.res.nc.0001
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_lap_friction.res.nc.0001
   hashes:
-    binhash: 5c93656b0682182d1e07af375d6f99b2
-    md5: d2f07c22935cb48f5db0300612dcd419
+    binhash: 102884fb1a0199f92b58899265bc05cd
+    md5: 25dd38e3f53bf7196814f23aa3b32e4c
 work/ocean/INPUT/ocean_lap_friction.res.nc.0002:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_lap_friction.res.nc.0002
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_lap_friction.res.nc.0002
   hashes:
-    binhash: 543fc20028ff2dacdbaee30f19cd53eb
-    md5: 91bf5b9a8b399c433c20cc0b8eaba6ea
+    binhash: 92346512d46abbb357a1ddd04b6d36da
+    md5: 329d358c425c47e7eca4ff5746b84345
 work/ocean/INPUT/ocean_lap_friction.res.nc.0003:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_lap_friction.res.nc.0003
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_lap_friction.res.nc.0003
   hashes:
-    binhash: 23d2d2950b25489bdb98d91823e722d3
-    md5: 465cc9d7a1b25d8726451c9e673fdaf5
+    binhash: c99a1a497c350cb0da8485079bdf7e58
+    md5: a4edb75ceba36b5d5d4dbcabd0d24fc5
 work/ocean/INPUT/ocean_lap_friction.res.nc.0004:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_lap_friction.res.nc.0004
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_lap_friction.res.nc.0004
   hashes:
-    binhash: 4b31216f0dbfbb7c678cc8badc983bb6
-    md5: 3e112bd2fc00f229a2da73153980b3a7
+    binhash: 102ac43a557f6e39de37bbf2a343d131
+    md5: 64d7e3156c75913c65acfa063c0f309a
 work/ocean/INPUT/ocean_lap_friction.res.nc.0005:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_lap_friction.res.nc.0005
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_lap_friction.res.nc.0005
   hashes:
-    binhash: 2e7290be8959c7a5b1a0cd5976c84d3c
-    md5: ff2f077bcaa6379751d192570a08e60f
+    binhash: d176b064ecef802fa1445e420158a90c
+    md5: b37c14829ca76acf591f7847a70004e3
 work/ocean/INPUT/ocean_lap_friction.res.nc.0006:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_lap_friction.res.nc.0006
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_lap_friction.res.nc.0006
   hashes:
-    binhash: b9735851e9fc01154e4df50c3c56f8a4
-    md5: 77baea486b9a7606241d824ba9604be7
+    binhash: e34b53d6ad01df0eef593f00f4395b4d
+    md5: bbe2aaff6258c0a511e6fc8f8d62affc
 work/ocean/INPUT/ocean_lap_friction.res.nc.0007:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_lap_friction.res.nc.0007
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_lap_friction.res.nc.0007
   hashes:
-    binhash: e97539d230c76702e37c1e84d52bd1f7
-    md5: d286061a96ae92a43843454a366c2745
+    binhash: 112ccda5487949ad2c788660f4003aaa
+    md5: 5a0a31060ec8dd4b691f7510f726a6f5
 work/ocean/INPUT/ocean_lap_friction.res.nc.0008:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_lap_friction.res.nc.0008
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_lap_friction.res.nc.0008
   hashes:
-    binhash: b091b432dac8284ba9b8b015ebbdeaf4
-    md5: 06019dbcac492ac33e97fc874cd6d66d
+    binhash: 9426521ff593ca6fe1ef75f93f5902dc
+    md5: cebed3ede294bb589a97335bf028bb22
 work/ocean/INPUT/ocean_lap_friction.res.nc.0009:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_lap_friction.res.nc.0009
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_lap_friction.res.nc.0009
   hashes:
-    binhash: ec336c886a434942d8cb5881b14d20e7
-    md5: 4192963ed3c55776e154612af126c96d
+    binhash: 21b029e1813f95252fd999adcc16d9aa
+    md5: 0dfb7e7086881936cb22b6eb26690842
 work/ocean/INPUT/ocean_lap_friction.res.nc.0010:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_lap_friction.res.nc.0010
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_lap_friction.res.nc.0010
   hashes:
-    binhash: 4d2d2ff267f6396a79367075138e9864
-    md5: 67577c0d3a233e8a8a7d0bb4799af1c0
+    binhash: 8d7c2ee6bdd14f71fdd737380f3c0de5
+    md5: 30553e443c652e8d8b4d8f569147fe3e
 work/ocean/INPUT/ocean_lap_friction.res.nc.0011:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_lap_friction.res.nc.0011
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_lap_friction.res.nc.0011
   hashes:
-    binhash: fac9b46dab0e0edfbf8f8712230198b6
-    md5: 3c21d6a232461e5947a048d9db70c9c8
+    binhash: 40ca0720cf5a21fead73836fc54b26d8
+    md5: f114f6e9ceaa62df21ec1655cb142c3c
 work/ocean/INPUT/ocean_neutral.res.nc.0000:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_neutral.res.nc.0000
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_neutral.res.nc.0000
   hashes:
-    binhash: dfa65de84dd74ffd285f6bdaedfc9592
-    md5: 8a36f4eb6d576a7ca2a3f8cc7b22ab06
+    binhash: 60c5a6845821b6f5f50b8afbc8e0a367
+    md5: bb6841a26aa8804678a333cdb2adaf06
 work/ocean/INPUT/ocean_neutral.res.nc.0001:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_neutral.res.nc.0001
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_neutral.res.nc.0001
   hashes:
-    binhash: 5ea6b1fcfad12df7efdc11fe743c31b4
-    md5: 6d486fd761a635f7860a4ee111941975
+    binhash: c5509b2e314ab16cb38e59c750f94c63
+    md5: 545152fbdf476db47e7cd0e9e05af098
 work/ocean/INPUT/ocean_neutral.res.nc.0002:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_neutral.res.nc.0002
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_neutral.res.nc.0002
   hashes:
-    binhash: f7673588a9ebe8cd4dfe2bb3cbd071ff
-    md5: cd45907f669826046c5eed22cc7d8e63
+    binhash: 7c010ddce3a8d9e5e01f73a17146e9c9
+    md5: 23e1cb8e8309580cbb0b8c809fb559a1
 work/ocean/INPUT/ocean_neutral.res.nc.0003:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_neutral.res.nc.0003
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_neutral.res.nc.0003
   hashes:
-    binhash: 7199de12af26bbe9eaf15cfaaf56a70d
-    md5: 474a8aa4e5abf793b7a60ff113212f3f
+    binhash: ba10ec966ddd468270568d07c8e4142a
+    md5: e723d371c028d5146d15980578db8f98
 work/ocean/INPUT/ocean_neutral.res.nc.0004:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_neutral.res.nc.0004
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_neutral.res.nc.0004
   hashes:
-    binhash: 05e09ee2bdd192a9a7acc75087397788
-    md5: 84f8e89bff7d8d6039bb1e5e6a764c44
+    binhash: 493320514239aa461d4966f7b90127e4
+    md5: 0114f6c5b060da8c62cb53c7dacfd76f
 work/ocean/INPUT/ocean_neutral.res.nc.0005:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_neutral.res.nc.0005
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_neutral.res.nc.0005
   hashes:
-    binhash: 874dbf2427baac5991edcfb59d338f4e
-    md5: 4a21693ec6b88b918a75c82be3c1121d
+    binhash: 0d0747c13bf575d895c18eb19923d616
+    md5: 60b4879b6952a707d5508b250481a818
 work/ocean/INPUT/ocean_neutral.res.nc.0006:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_neutral.res.nc.0006
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_neutral.res.nc.0006
   hashes:
-    binhash: dd12fe391727df4c58b5d8ba208a9dfb
-    md5: 66a4011a4c5490a043703d88b544b220
+    binhash: 8af90e483af4b895e5e140cddc5b6137
+    md5: 101533bfa804c4a161f37badd3825601
 work/ocean/INPUT/ocean_neutral.res.nc.0007:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_neutral.res.nc.0007
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_neutral.res.nc.0007
   hashes:
-    binhash: 8206a286a16d28755b6423531e12bc2b
-    md5: 9106491954393aa431fa344ca2e97e2d
+    binhash: 0fdf2e5cc1106542c0ea838f90e81061
+    md5: 23c93ee645d7a8117eb1dea00146d99d
 work/ocean/INPUT/ocean_neutral.res.nc.0008:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_neutral.res.nc.0008
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_neutral.res.nc.0008
   hashes:
-    binhash: 147cb15884ab31ac39dfbbb7f5d8de00
-    md5: f10547e0e7f2d5c231a02b4f42f0974a
+    binhash: b18a91f4c209a984d9b0b7ff9a16533a
+    md5: 93e62baac8704b6da78910df566b3a3c
 work/ocean/INPUT/ocean_neutral.res.nc.0009:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_neutral.res.nc.0009
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_neutral.res.nc.0009
   hashes:
-    binhash: 6f90de0640fde0f983d3dedd5591a169
-    md5: e28d5c6900ac824b28d2de0b0ec00aa7
+    binhash: 367c9187844ba0bcc7f430c678cbbdf1
+    md5: 1cbd95bbc6f175009f22e664bba37097
 work/ocean/INPUT/ocean_neutral.res.nc.0010:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_neutral.res.nc.0010
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_neutral.res.nc.0010
   hashes:
-    binhash: 67b006694d2d8bc71d154facbe2bbdad
-    md5: 331e67fd137452f374c2e112e7eb19b3
+    binhash: b1be1dab59228300706ba8d1671807e7
+    md5: d16138b1be337b09532deac0627a1463
 work/ocean/INPUT/ocean_neutral.res.nc.0011:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_neutral.res.nc.0011
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_neutral.res.nc.0011
   hashes:
-    binhash: 655a3e383d1841f668d84f940b3b24a1
-    md5: 236f61a2eb9e2c4aa31d0a72da0bbf8e
+    binhash: 4541ce4e6f1de5d03a9b8762dc632052
+    md5: 9ea08cae428f12969064d526c89a94fa
 work/ocean/INPUT/ocean_pot_temp.res.nc.0000:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_pot_temp.res.nc.0000
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_pot_temp.res.nc.0000
   hashes:
-    binhash: 5a593111d99228ac66c01394730f3bb9
-    md5: c036e6512ffe259645ba771d1e75e5c3
+    binhash: 0b881f8b6c209d3bb1480ef89e7d4a23
+    md5: a93da5ab009c1943965b415009155214
 work/ocean/INPUT/ocean_pot_temp.res.nc.0001:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_pot_temp.res.nc.0001
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_pot_temp.res.nc.0001
   hashes:
-    binhash: dfcc05aac59b33e632ce94d06fbe7366
-    md5: d9f096b5f94c273fcd5eeeaa4ef42496
+    binhash: 05fc064295558f90c48e4107956936f2
+    md5: b57ff4f0c57801cf2ca689cd75ead013
 work/ocean/INPUT/ocean_pot_temp.res.nc.0002:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_pot_temp.res.nc.0002
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_pot_temp.res.nc.0002
   hashes:
-    binhash: 22350ab8779ab7a76770ba2b0c531f6e
-    md5: 7508027e8971278a984141a40ca79e46
+    binhash: b4006a2e1a36f61f051355a49c1868c7
+    md5: d75fd7314678b7969ed0f2056b15e8c6
 work/ocean/INPUT/ocean_pot_temp.res.nc.0003:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_pot_temp.res.nc.0003
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_pot_temp.res.nc.0003
   hashes:
-    binhash: 73df509da8c7f927787beec176fcc24e
-    md5: 2a756450f15e8f2c75be0010144880e8
+    binhash: fa20ac4796794b77bfb86576e8fccb46
+    md5: 25180a5d262de40b0454feb77f3cf6f9
 work/ocean/INPUT/ocean_pot_temp.res.nc.0004:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_pot_temp.res.nc.0004
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_pot_temp.res.nc.0004
   hashes:
-    binhash: 2e7bc7f90ad04e78135e0091443f6a86
-    md5: e2e1c0c04827f1a5bbe046c7c14de529
+    binhash: fc2bb39c4b3276ad8be0fef877d5b2cf
+    md5: 38174c306d158b32d3ba3add3a3bd741
 work/ocean/INPUT/ocean_pot_temp.res.nc.0005:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_pot_temp.res.nc.0005
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_pot_temp.res.nc.0005
   hashes:
-    binhash: 07a9e40fbd2321fd892df392872f6c47
-    md5: 075e805d3e27c5fc62ecef17c1ce541c
+    binhash: 6d80b17c867e8f0306538d41a80f25f8
+    md5: 74e583e6ff849c24cd30ed34d82d8639
 work/ocean/INPUT/ocean_pot_temp.res.nc.0006:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_pot_temp.res.nc.0006
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_pot_temp.res.nc.0006
   hashes:
-    binhash: 9facffd1eb46c3c3b72102df82a171a8
-    md5: c85ec967820a309a3d72272b301b5781
+    binhash: 1033362c7e5644ac9dd11fd438b2e34b
+    md5: 4b536d2af949524d6971a916fcfe8a95
 work/ocean/INPUT/ocean_pot_temp.res.nc.0007:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_pot_temp.res.nc.0007
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_pot_temp.res.nc.0007
   hashes:
-    binhash: 62dae376b1dd18e7000af2c27a663fd9
-    md5: b73aa02e4d39b6841d3e1ba89c2cb77c
+    binhash: 02a0c5a6c8379b60d9827c13d5637de1
+    md5: 5db1384ab47511dcb0b684aa9e8447f2
 work/ocean/INPUT/ocean_pot_temp.res.nc.0008:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_pot_temp.res.nc.0008
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_pot_temp.res.nc.0008
   hashes:
-    binhash: 1d6a08671dde94d84f0b3591268dc1e3
-    md5: 663998cd3d6316bcac4915f51c05eb77
+    binhash: af506b519deaea135440b276f088f420
+    md5: 79236dfb0682aabb31ceb2615bd1221e
 work/ocean/INPUT/ocean_pot_temp.res.nc.0009:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_pot_temp.res.nc.0009
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_pot_temp.res.nc.0009
   hashes:
-    binhash: 7e8960009895cf8eea556decc9059c14
-    md5: 0ab1208d2a5b2f2a72f760de965f02a9
+    binhash: 7bb624740737cbcf7c401472bd020f34
+    md5: 4acc8247d3caf4110948eb7423123e8d
 work/ocean/INPUT/ocean_pot_temp.res.nc.0010:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_pot_temp.res.nc.0010
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_pot_temp.res.nc.0010
   hashes:
-    binhash: 01c4c5c2c8cef33568d70d5d9328996e
-    md5: 034a6b838526218003cc6786f6ac6302
+    binhash: 8bfdec6591f851ebcc5fd1a93b2d2229
+    md5: 95226f046fff06ca471bc5667794067e
 work/ocean/INPUT/ocean_pot_temp.res.nc.0011:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_pot_temp.res.nc.0011
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_pot_temp.res.nc.0011
   hashes:
-    binhash: 6b24731ea6d2afe36c0f882618270d92
-    md5: 311d2f24cddd56d735b5f4a32013ff8e
+    binhash: eb158f37f8f96385365612bee8245021
+    md5: 7a49438bd86660352eaa114867228e9e
 work/ocean/INPUT/ocean_sbc.res.nc.0000:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_sbc.res.nc.0000
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_sbc.res.nc.0000
   hashes:
-    binhash: 9a00ec21c058c6d28b313dc7f1a11e51
-    md5: 07dd92018972554a1cf3a47a0570351e
+    binhash: 691d0b1baf5cb751fded81a3789c7d91
+    md5: a927b7de7348facdec2f442162dc897f
 work/ocean/INPUT/ocean_sbc.res.nc.0001:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_sbc.res.nc.0001
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_sbc.res.nc.0001
   hashes:
-    binhash: f7260da0cf8e26ec95e7fab8e67f1d4a
-    md5: 90e1484f9e07e2b1c742d44ad555b1da
+    binhash: 13278499f018528dbadc49616b8e2596
+    md5: 0b3be5f974567ffe6f3e01160c06745a
 work/ocean/INPUT/ocean_sbc.res.nc.0002:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_sbc.res.nc.0002
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_sbc.res.nc.0002
   hashes:
-    binhash: c6376bd868f94c1322671a96f149e9bf
-    md5: 2d3829865139ff1c062ebfc7ffceec3a
+    binhash: 8f989bba0e7d1842be8056a49b987e57
+    md5: d5b6feadca8fb8a914ad41168459b898
 work/ocean/INPUT/ocean_sbc.res.nc.0003:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_sbc.res.nc.0003
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_sbc.res.nc.0003
   hashes:
-    binhash: f0f58dbea31f4f945cbf3678a90267f5
-    md5: 6a080e08f72042330a019e1859edbdc5
+    binhash: c48bf831282fa6df6cca28f89b6f56e6
+    md5: 58b2e77521af810650285e358742efe3
 work/ocean/INPUT/ocean_sbc.res.nc.0004:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_sbc.res.nc.0004
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_sbc.res.nc.0004
   hashes:
-    binhash: f12ca8b2776607a1b879a2b01a54b4c3
-    md5: f38b2527719d207ea53677b9c18d4501
+    binhash: c38a5adc90c542060ecfe7948fc35854
+    md5: 70085ac0d0050f30940088b620262b75
 work/ocean/INPUT/ocean_sbc.res.nc.0005:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_sbc.res.nc.0005
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_sbc.res.nc.0005
   hashes:
-    binhash: a556de1a7d80d666dd101e6ed22d3c02
-    md5: 0164132b1d7f68abd8af6e2f793c0dee
+    binhash: 2c1ce767737acde931925857803748bd
+    md5: b2c2f47511e37eac37f30f08395c3eeb
 work/ocean/INPUT/ocean_sbc.res.nc.0006:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_sbc.res.nc.0006
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_sbc.res.nc.0006
   hashes:
-    binhash: d782b8b26c9bc2d1444b8d3cb0158e93
-    md5: 1701c33fbc009c1fb5b6e4c6e941f9d4
+    binhash: a91f709fe8da444d472e058957281116
+    md5: e876d2a9eba9a6d424a5e70be4ee1c1e
 work/ocean/INPUT/ocean_sbc.res.nc.0007:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_sbc.res.nc.0007
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_sbc.res.nc.0007
   hashes:
-    binhash: 2a3827e938b08021053d017c6970e5f5
-    md5: 92095312240b13216830d79d0443ef22
+    binhash: 477ac75ba1c9af60e6086f97c25812c7
+    md5: 118bb5c00ea8002b445edfa20b9fbd4e
 work/ocean/INPUT/ocean_sbc.res.nc.0008:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_sbc.res.nc.0008
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_sbc.res.nc.0008
   hashes:
-    binhash: 021f7a239b557e18260a7aa7f085e4e7
-    md5: 6606e046b418592ba85f76eb37dc4470
+    binhash: 121b86bab48dc8e020ad13d937ea5394
+    md5: 837ab486bc60207a84bade1ef12c9e36
 work/ocean/INPUT/ocean_sbc.res.nc.0009:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_sbc.res.nc.0009
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_sbc.res.nc.0009
   hashes:
-    binhash: b90706688f0aff02aa38cd6a26918dbb
-    md5: 4343bb91d069038d352c0c394b0531c2
+    binhash: c3088515d3f3ed7512489685707d7c6b
+    md5: f29e43b4e58f0fed504f096ffc4a15e5
 work/ocean/INPUT/ocean_sbc.res.nc.0010:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_sbc.res.nc.0010
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_sbc.res.nc.0010
   hashes:
-    binhash: 15a0eff9139447729095edf68a214b62
-    md5: 76e6080fb16ca533d149c45ab7c844fb
+    binhash: c4b6eaa72ead75b53b68f51e264502ca
+    md5: dcf9b7760ddf980d54f79d9c8c6758e1
 work/ocean/INPUT/ocean_sbc.res.nc.0011:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_sbc.res.nc.0011
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_sbc.res.nc.0011
   hashes:
-    binhash: 66ea5af26761495bf8f43b2490ba1efb
-    md5: d5236b727258491350093a752b157998
+    binhash: fb57214f85b9e29d869a4b2906a61fec
+    md5: 491a50caaa228a1c22dd4a22c90fcc82
 work/ocean/INPUT/ocean_sigma_transport.res.nc.0000:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_sigma_transport.res.nc.0000
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_sigma_transport.res.nc.0000
   hashes:
-    binhash: e6f02a451de7dd21833e6e36bf59178b
-    md5: 68166676d917ee041732574ba0b695f0
+    binhash: fd0d7216239a6c70556a74bbc9a2f37e
+    md5: 078a654ee5f84b1824a6bc3b8794cb6e
 work/ocean/INPUT/ocean_sigma_transport.res.nc.0001:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_sigma_transport.res.nc.0001
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_sigma_transport.res.nc.0001
   hashes:
-    binhash: 754f2cae18cdacff6d6ec39173c160ee
-    md5: 27491327d9479a1b1d86eeef89e856a1
+    binhash: bc5d4c107d758d14ea8bc04c5a8c91f1
+    md5: 47c234e80f4a34f2114da2b4cfb79e54
 work/ocean/INPUT/ocean_sigma_transport.res.nc.0002:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_sigma_transport.res.nc.0002
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_sigma_transport.res.nc.0002
   hashes:
-    binhash: 35ba579476e26c9c5b1744e27a89a46e
-    md5: 13f876854d7d525d138f586e509358f9
+    binhash: 7a31b463237a0fd0b8137aea1c84fee6
+    md5: 31175cb5d51de614084aada4b0749686
 work/ocean/INPUT/ocean_sigma_transport.res.nc.0003:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_sigma_transport.res.nc.0003
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_sigma_transport.res.nc.0003
   hashes:
-    binhash: e85c6d55b3874b64810eaa9fed314868
-    md5: 4475e3bb50464fcb0769aaf3cdc3ede9
+    binhash: 9c05e14fc2577053c4e084e7ed543563
+    md5: 4cb56c6a0c7ec648236a89488fba097a
 work/ocean/INPUT/ocean_sigma_transport.res.nc.0004:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_sigma_transport.res.nc.0004
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_sigma_transport.res.nc.0004
   hashes:
-    binhash: bec7dcceec4ce6bcbc5e59cc5f55dd3f
-    md5: 554dcc7e1dfb26065158f10d57cacf4e
+    binhash: f66d0de6f9a9ff552d6ae4e41d4f94cf
+    md5: 9bb2ab2a9be0c7389478fbf70a61ab0d
 work/ocean/INPUT/ocean_sigma_transport.res.nc.0005:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_sigma_transport.res.nc.0005
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_sigma_transport.res.nc.0005
   hashes:
-    binhash: 574af899d8168b571428ce212c2fe501
-    md5: 91efe8c711a66324e0c24e7cba32b38f
+    binhash: 09037c080274b5ec30e561bd99538591
+    md5: 670d3fe443081a81ca43ddd5a1bd543c
 work/ocean/INPUT/ocean_sigma_transport.res.nc.0006:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_sigma_transport.res.nc.0006
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_sigma_transport.res.nc.0006
   hashes:
-    binhash: 47455dd1435bec707eb0325062d8a276
-    md5: 2244b7b003cfcb4b25e32696391847e0
+    binhash: 515dd96abb8fa4ea2470832618e22d0e
+    md5: 97850a8bada6063f8c7b2330893bacf9
 work/ocean/INPUT/ocean_sigma_transport.res.nc.0007:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_sigma_transport.res.nc.0007
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_sigma_transport.res.nc.0007
   hashes:
-    binhash: 49cc3d6b198d5673f071197693facc58
-    md5: ca72897bcaef00c22cb8fe7532a39ca2
+    binhash: 7b54e1bea888ea8864d1817486f65f7e
+    md5: d2c959c05d20989302f6e2335dc11e42
 work/ocean/INPUT/ocean_sigma_transport.res.nc.0008:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_sigma_transport.res.nc.0008
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_sigma_transport.res.nc.0008
   hashes:
-    binhash: 8f0a5b06e6320f1fca635ea672103b4e
-    md5: e1f9a1bc8bb3a78a001944e3f5b36a3f
+    binhash: 9678ea20c3b19f48d56654fc92aa7b8e
+    md5: 58ada697284c62226aff4bdb3ccef613
 work/ocean/INPUT/ocean_sigma_transport.res.nc.0009:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_sigma_transport.res.nc.0009
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_sigma_transport.res.nc.0009
   hashes:
-    binhash: 37d6de1260f765c9a4ea9c670dbb68e1
-    md5: 9fab667c248d5b292a7b4aa9089eab25
+    binhash: 352a0d99784733fa014f836c3d0bf23d
+    md5: f4018fdae995fe20d7ccd53d3360c2a5
 work/ocean/INPUT/ocean_sigma_transport.res.nc.0010:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_sigma_transport.res.nc.0010
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_sigma_transport.res.nc.0010
   hashes:
-    binhash: 48bd8377d43e210c010920cce84cb2c8
-    md5: 333b523d3f64742e22c23376c5d279f2
+    binhash: c3f02d20fc7893e235c072848e29099a
+    md5: 2b269076ff899a0615a9354d61ee4f3c
 work/ocean/INPUT/ocean_sigma_transport.res.nc.0011:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_sigma_transport.res.nc.0011
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_sigma_transport.res.nc.0011
   hashes:
-    binhash: 57ee86acea8100c5078341def7bd4737
-    md5: d7379a60f9017c278d3b4284dcf9ed24
+    binhash: 3fffc8b071a024a73ade074dd715dc80
+    md5: 9c4a288718a01845f2727e953f689f63
 work/ocean/INPUT/ocean_solo.res:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_solo.res
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_solo.res
   hashes:
-    binhash: 49cd9cd9e2b4d591f7b882048c1847c5
-    md5: 2014a3a88b1bcfea0e38f59820661760
+    binhash: 664587a699a12e7cfd2c79c083e0fd01
+    md5: 1790d6ae6b51359d8d46d42114f2ccb5
 work/ocean/INPUT/ocean_temp_salt.res.nc.0000:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_temp_salt.res.nc.0000
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_temp_salt.res.nc.0000
   hashes:
-    binhash: f547d5faab7b6fb94bf50da386d6591b
-    md5: c32320d91a11bf01927695b50fd0628f
+    binhash: a09fa38d3bbb8d597788b91937ea1092
+    md5: 1c8c20965ef83509cb6ac76fc2aa679f
 work/ocean/INPUT/ocean_temp_salt.res.nc.0001:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_temp_salt.res.nc.0001
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_temp_salt.res.nc.0001
   hashes:
-    binhash: a0438b7c126a79b61a76b7fbf3e192a0
-    md5: ef7df42a063b7c89537506ebfe725808
+    binhash: 770894258a8ad1c580ad3ebb5cb9db2d
+    md5: 33bf11c11bda03df1c2281225005579b
 work/ocean/INPUT/ocean_temp_salt.res.nc.0002:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_temp_salt.res.nc.0002
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_temp_salt.res.nc.0002
   hashes:
-    binhash: 361f03f37c21aa868693896379d6afd1
-    md5: 384467ab0600007a088ed1d412b00c10
+    binhash: b843f2b42ace363864db3d93e9cee28f
+    md5: 61bc9a2cf05eee01800e7642ce68de28
 work/ocean/INPUT/ocean_temp_salt.res.nc.0003:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_temp_salt.res.nc.0003
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_temp_salt.res.nc.0003
   hashes:
-    binhash: fabbc749eec1c2a058872fb9add987a8
-    md5: c12e5479df98ece379a03604e8de98eb
+    binhash: 92878372811f28d82de3b2f5fc9632c2
+    md5: 5712dbf1ff7ebd62521f4038546d0156
 work/ocean/INPUT/ocean_temp_salt.res.nc.0004:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_temp_salt.res.nc.0004
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_temp_salt.res.nc.0004
   hashes:
-    binhash: 326cd68268fa81743db88574f27faea1
-    md5: 907027999191df994c09b62e8a125273
+    binhash: 0866fa89c313eb09af02c58bc536acad
+    md5: 55c0d2c961c2ebcff5bc6a632bc8c98d
 work/ocean/INPUT/ocean_temp_salt.res.nc.0005:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_temp_salt.res.nc.0005
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_temp_salt.res.nc.0005
   hashes:
-    binhash: 720dd709f9cee2fd5c7e3e251852a4a1
-    md5: 5641bd1ace41e531a43aab9a40f29123
+    binhash: 181d736643c5537124ad255de31f0b67
+    md5: e333f264ce90029031c797e4bece2782
 work/ocean/INPUT/ocean_temp_salt.res.nc.0006:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_temp_salt.res.nc.0006
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_temp_salt.res.nc.0006
   hashes:
-    binhash: 15118cf69d8f6f32fcfa56853eaaaece
-    md5: fbddd103d1af1b26ac7eab2b7c6891eb
+    binhash: 475f7e21875234d586394c7c06954356
+    md5: 0153d695dd5e08a6669e9f34ca7642a5
 work/ocean/INPUT/ocean_temp_salt.res.nc.0007:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_temp_salt.res.nc.0007
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_temp_salt.res.nc.0007
   hashes:
-    binhash: 66be30c45043a15bf2163e3fba2d7c65
-    md5: d958e448a2a3ebc83fbdc849004b68e7
+    binhash: adbc1dafc6cff96764b54afd07fb460e
+    md5: b3c2272016471e5db662b0bb8e308471
 work/ocean/INPUT/ocean_temp_salt.res.nc.0008:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_temp_salt.res.nc.0008
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_temp_salt.res.nc.0008
   hashes:
-    binhash: 3748ac212cba26bb00a4e2cb19ec9410
-    md5: 03ecd44658de99c2db1f1c336c047236
+    binhash: 3da04acacf4d18a83160987df8dd517f
+    md5: 188f30ed543d974d265cc9838810eda1
 work/ocean/INPUT/ocean_temp_salt.res.nc.0009:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_temp_salt.res.nc.0009
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_temp_salt.res.nc.0009
   hashes:
-    binhash: 00e854907caa2aaa0960f6926016ab58
-    md5: 317808bb71904c568c8530d2c33c1675
+    binhash: d21506b5105e0f05e03f5fb771f30fdc
+    md5: d2fd382b6a8f099c68bf5f84ce0bfcab
 work/ocean/INPUT/ocean_temp_salt.res.nc.0010:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_temp_salt.res.nc.0010
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_temp_salt.res.nc.0010
   hashes:
-    binhash: 7eaa4fa527f33a798ca71a09c93698a6
-    md5: f830433466434874850f573e269b8324
+    binhash: 33a05f9cee0fc7cf0fbad91f4d465854
+    md5: 2e484daa6d0808751f1a1eb03c7313de
 work/ocean/INPUT/ocean_temp_salt.res.nc.0011:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_temp_salt.res.nc.0011
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_temp_salt.res.nc.0011
   hashes:
-    binhash: 1b12e50a462d6cda2345ea8a9323a573
-    md5: c3bc4a2c78ec985a6887ceedbc2c6388
+    binhash: 6081c87c3b0606edcd703fa2a4e50ecc
+    md5: 3d757d8a9bcf662fbef2660dcdfac984
 work/ocean/INPUT/ocean_thickness.res.nc.0000:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_thickness.res.nc.0000
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_thickness.res.nc.0000
   hashes:
-    binhash: a6cd6dcff0fc76e02a1066964b0c0743
-    md5: e5395d9b33b0685bb1fb5553f308a5e3
+    binhash: d30231920fb62252a362f80339e98b7f
+    md5: a5ec5345445c99ac1147b23c88750d50
 work/ocean/INPUT/ocean_thickness.res.nc.0001:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_thickness.res.nc.0001
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_thickness.res.nc.0001
   hashes:
-    binhash: 137e70623611859f8acd790d4e4a4f6f
-    md5: 9311dc630997cd96a73e9be2d7003637
+    binhash: 29896e5bf67a7599b089fe06611fee3e
+    md5: 84227f6942509be777d62f541ba8bbcf
 work/ocean/INPUT/ocean_thickness.res.nc.0002:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_thickness.res.nc.0002
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_thickness.res.nc.0002
   hashes:
-    binhash: 3a653dc4b6e58e21e58aba717ba7bdfe
-    md5: f7a6bd67d50e503983ba77d1a27c4305
+    binhash: 9adb4eeef6797ba58ef37196827ac372
+    md5: 8e34e0a04110594bbe48c27b0f22bc84
 work/ocean/INPUT/ocean_thickness.res.nc.0003:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_thickness.res.nc.0003
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_thickness.res.nc.0003
   hashes:
-    binhash: 58679a4292ab4dcfbd03a80740d4a95e
-    md5: 74e57f4a6a60e1514099c5aed3a54ac2
+    binhash: 2a391e1ffc25174742584c172e0a2edc
+    md5: b576df07576b8efee04ae13f670be3ad
 work/ocean/INPUT/ocean_thickness.res.nc.0004:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_thickness.res.nc.0004
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_thickness.res.nc.0004
   hashes:
-    binhash: 5cd43a9697738115193ab1ad410f4430
-    md5: d533944df96ef8dcd45790edbecf78e2
+    binhash: 57c97b6f07e028c7bd96dba5df37907c
+    md5: 102504b784a034269153028debdff9d5
 work/ocean/INPUT/ocean_thickness.res.nc.0005:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_thickness.res.nc.0005
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_thickness.res.nc.0005
   hashes:
-    binhash: 5821815dad6e65179dad301d5964b4ed
-    md5: 2ec6a3809e6ed0e1a7a85a3047e6c49b
+    binhash: ddd0bf0d8a580f77b0b3514369f3e60b
+    md5: 93036557dedfce62ee8c775ce2e4e2fb
 work/ocean/INPUT/ocean_thickness.res.nc.0006:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_thickness.res.nc.0006
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_thickness.res.nc.0006
   hashes:
-    binhash: f5cb167aece4732852318b25a996f6b2
-    md5: 9cf1d094e20c336cdf823e0a66896b1e
+    binhash: ce0a057bc0574b15703bedae32e5d7e6
+    md5: c43054a833e38335932181ef80ee97ad
 work/ocean/INPUT/ocean_thickness.res.nc.0007:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_thickness.res.nc.0007
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_thickness.res.nc.0007
   hashes:
-    binhash: a919523d597058d1ecf91bb51772b919
-    md5: 960dcaf4b4f1d44d2927237346adfa03
+    binhash: 3522c749e5a183b7c41164b39d487208
+    md5: d26402905a3280ed0dbd64ea29ec0473
 work/ocean/INPUT/ocean_thickness.res.nc.0008:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_thickness.res.nc.0008
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_thickness.res.nc.0008
   hashes:
-    binhash: 23bb96433c173b62ee8e1f67173ffe4d
-    md5: ecb5b15cb2e2c5a6cc7db2b84f890b2c
+    binhash: 6e50edde69c8064b839249df2d7c186f
+    md5: e5c57d10151ed865677777fb24b8b68d
 work/ocean/INPUT/ocean_thickness.res.nc.0009:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_thickness.res.nc.0009
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_thickness.res.nc.0009
   hashes:
-    binhash: bf474ab1d48bf9eea533ac56f20b8b0e
-    md5: 34fcaeafb4961ce99ea3d8cd1014cdba
+    binhash: 8d63945e4f398fecd893e6963ef8ca4d
+    md5: b580e146900d0c091edfa15d8af1ea4e
 work/ocean/INPUT/ocean_thickness.res.nc.0010:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_thickness.res.nc.0010
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_thickness.res.nc.0010
   hashes:
-    binhash: b93e6bf47fe2ee758e55d74063da3bae
-    md5: 6dac028cd2d5dedb4eeeb941e9ae75a1
+    binhash: 6677fdc5026d8bf49982c8b9275df66a
+    md5: fd6f452c2398bf689ed8d2f3b4e14d74
 work/ocean/INPUT/ocean_thickness.res.nc.0011:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_thickness.res.nc.0011
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_thickness.res.nc.0011
   hashes:
-    binhash: c6e6b3b3cdf7e99387093d83afd94ca6
-    md5: c07ddb9ccb74ec5d49501dbc34e741b1
+    binhash: 0efdaab0044dc7f04a9b651377ba8abd
+    md5: 2d62f78e0f5b822e1c7dcfaddc386fe0
 work/ocean/INPUT/ocean_tracer.res:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_tracer.res
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_tracer.res
   hashes:
-    binhash: b5132e7d9d33f70739c4844c20ab04ec
-    md5: 08a625869f6c985fc6ce9246551e38c7
+    binhash: fb5def3b47df9b9a6155958cc294d652
+    md5: 0542494ff04a50565fc62f0556cb60ca
 work/ocean/INPUT/ocean_velocity.res.nc.0000:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_velocity.res.nc.0000
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_velocity.res.nc.0000
   hashes:
-    binhash: 4235430f2d4fd54dc30e4f378ff9a53b
-    md5: 1fdf2b8f90216f9cd0e71e770c044318
+    binhash: 9882a9f3331aa77d04a24a84ec4df4e6
+    md5: 23543b3b0bf0242cb15dcc3c6d8cd4de
 work/ocean/INPUT/ocean_velocity.res.nc.0001:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_velocity.res.nc.0001
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_velocity.res.nc.0001
   hashes:
-    binhash: 06e4aa01782905f2c08b8632006ada91
-    md5: 93f2b86c37b246711e45942e33102696
+    binhash: 3c3b0417796c94b211bf73e2c6889da7
+    md5: e2c183ffd1e94719d8aca873208b8e82
 work/ocean/INPUT/ocean_velocity.res.nc.0002:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_velocity.res.nc.0002
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_velocity.res.nc.0002
   hashes:
-    binhash: 5e52cb924fbd3905c513f7cbf9bade5d
-    md5: 881fc5caf6830b1083d8384a71b14b89
+    binhash: d72ac982a89f8f412141c25dd193251b
+    md5: 44723c4958b9b0ae943231286672c9ac
 work/ocean/INPUT/ocean_velocity.res.nc.0003:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_velocity.res.nc.0003
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_velocity.res.nc.0003
   hashes:
-    binhash: b303d8a2da76028d4dc786eb79e1090d
-    md5: 8faee7b171fb32a77c0fd9921e7ed045
+    binhash: 49f1400031b410b57bf9191a89e19869
+    md5: e77b1a32134b41407635952e64ef0b10
 work/ocean/INPUT/ocean_velocity.res.nc.0004:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_velocity.res.nc.0004
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_velocity.res.nc.0004
   hashes:
-    binhash: cc96788c4b3f2cb518fd13b09235c861
-    md5: ab702633f6e8e6252aa5329f3286edd1
+    binhash: 9decf315f737802caae4d97e781b771b
+    md5: 6976b370129f749503e56d7a734e3509
 work/ocean/INPUT/ocean_velocity.res.nc.0005:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_velocity.res.nc.0005
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_velocity.res.nc.0005
   hashes:
-    binhash: 0f0c8722f134895923b8c1bb1ad6115d
-    md5: 2b06676ca79ae8ec9bede2e0a84f8490
+    binhash: 48e798dbbba259270d5fa695c3c48a06
+    md5: 9657e04ac66212c0901c570a6a5d1ac4
 work/ocean/INPUT/ocean_velocity.res.nc.0006:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_velocity.res.nc.0006
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_velocity.res.nc.0006
   hashes:
-    binhash: 99c31135247dcf5d4fa30d100848cfab
-    md5: a83b8b986359a75041144b6539d142fe
+    binhash: b4c76587dc4f9a223a6d53bd6b98a9b3
+    md5: e51c097c6d0461a6f71af7907e3925d1
 work/ocean/INPUT/ocean_velocity.res.nc.0007:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_velocity.res.nc.0007
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_velocity.res.nc.0007
   hashes:
-    binhash: 8a6ceb83d7b689a9a187bd0d49329e74
-    md5: e2d8fa872ab13fe2997ff748305dc62a
+    binhash: ebc5a67d67bd8e735308f8e92b7f3a32
+    md5: dd71a755548d7a2695d95333283af72a
 work/ocean/INPUT/ocean_velocity.res.nc.0008:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_velocity.res.nc.0008
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_velocity.res.nc.0008
   hashes:
-    binhash: fb287f22a3d47b39e979b60e85374093
-    md5: 2fc675efca0bd13c26daabd72c93107e
+    binhash: 2b523d2f4537bfbe892cfb813a5c64e4
+    md5: 541218921d084cf13ad60fb5cbbb1f14
 work/ocean/INPUT/ocean_velocity.res.nc.0009:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_velocity.res.nc.0009
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_velocity.res.nc.0009
   hashes:
-    binhash: d068f307ee3b452008e929a178a69304
-    md5: 7d4a58337ea3d9b5558bf4b4ab246e8d
+    binhash: 0fc086f46d72359518f34302f2638c63
+    md5: 9bd8711ee0a578b1013999c73e9bceee
 work/ocean/INPUT/ocean_velocity.res.nc.0010:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_velocity.res.nc.0010
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_velocity.res.nc.0010
   hashes:
-    binhash: 7f9ff8fad2b72e079d038fb85defe2c0
-    md5: 1b69cc31db5a9b5ec55c94c2b1e8aad3
+    binhash: 8e8497e13fc1ad9ce5e0858e3a57a03b
+    md5: d224273d96a5b0b5e89ad28774373e01
 work/ocean/INPUT/ocean_velocity.res.nc.0011:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_velocity.res.nc.0011
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_velocity.res.nc.0011
   hashes:
-    binhash: e0236c648a6b79917c8c49f4aa9d6300
-    md5: 8b8a8e4d78c813ba630f2d695f884aec
+    binhash: a5514484a3e2f096a5c04747852ec694
+    md5: 1064232d666ffeaf24b476b93523d7a6
 work/ocean/INPUT/ocean_velocity_advection.res.nc.0000:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_velocity_advection.res.nc.0000
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_velocity_advection.res.nc.0000
   hashes:
-    binhash: b7274badb664b7250a009ac5f44a64a4
-    md5: 79d7a340bbb05c7034e462f7e27a891f
+    binhash: c8a7b38c1042c7cae1d293fef73a3ac8
+    md5: e11db03c54d7b5c9f24526964fd419c4
 work/ocean/INPUT/ocean_velocity_advection.res.nc.0001:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_velocity_advection.res.nc.0001
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_velocity_advection.res.nc.0001
   hashes:
-    binhash: 645b67cc9bcc98e89401a643ad67545c
-    md5: 844a290a1daa466df1d20baf30ae8415
+    binhash: c04847e53cdab2fb29449b25a194db94
+    md5: 32a04b136121e68793124830bd1b06a7
 work/ocean/INPUT/ocean_velocity_advection.res.nc.0002:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_velocity_advection.res.nc.0002
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_velocity_advection.res.nc.0002
   hashes:
-    binhash: 1c1b9a91897d9f7ccf25cc026f7cf548
-    md5: 61e8d0f573bea54f81910880bc71d620
+    binhash: 02e6089dee29584f222f5067a38a50d1
+    md5: 2b39d52dbaa33132735287271fed2aa3
 work/ocean/INPUT/ocean_velocity_advection.res.nc.0003:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_velocity_advection.res.nc.0003
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_velocity_advection.res.nc.0003
   hashes:
-    binhash: d04cf91ee41158bad2dda55f6457ca3c
-    md5: 7f7da83b6b9c306ef7fc4b52fa08cf8d
+    binhash: 7f40d509d89f34c97d354999943498ad
+    md5: bd167382a50327d86d15831a5ee930af
 work/ocean/INPUT/ocean_velocity_advection.res.nc.0004:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_velocity_advection.res.nc.0004
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_velocity_advection.res.nc.0004
   hashes:
-    binhash: d1f32f98f0e3e72b623553e92ed42f01
-    md5: 08d9d4b9b75bc752fee1d51a504ee5e1
+    binhash: bc3f96687355f45894494ede533734ee
+    md5: 3de57e266c7f165fff39354118c890e1
 work/ocean/INPUT/ocean_velocity_advection.res.nc.0005:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_velocity_advection.res.nc.0005
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_velocity_advection.res.nc.0005
   hashes:
-    binhash: 2b449fe58dadadf8823a8a38f727bb08
-    md5: b088188dd3af6f434e55e40330853df3
+    binhash: de24b4f5602237e52c334bce69d246b7
+    md5: de69afc5ad10357e773721724e7bc3b2
 work/ocean/INPUT/ocean_velocity_advection.res.nc.0006:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_velocity_advection.res.nc.0006
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_velocity_advection.res.nc.0006
   hashes:
-    binhash: 3c9c7e816ca37c01b88a5a64e74f1063
-    md5: 35a7e84d2eefa6050544a23db0a32001
+    binhash: ffe8a0372bfcdb79b39b5d722088552b
+    md5: 76c42c162b30755951ec741dfd35a201
 work/ocean/INPUT/ocean_velocity_advection.res.nc.0007:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_velocity_advection.res.nc.0007
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_velocity_advection.res.nc.0007
   hashes:
-    binhash: f88d5010b4441f5e3be5cc95a3bd4441
-    md5: 45bba70b758e67203b99193bcfec20b3
+    binhash: dfad762e1a82ba7f6b898aaefec4e85c
+    md5: 4027e2ef18fc57ce16f2356cdea4ed7a
 work/ocean/INPUT/ocean_velocity_advection.res.nc.0008:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_velocity_advection.res.nc.0008
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_velocity_advection.res.nc.0008
   hashes:
-    binhash: 197abf55531e280ba0b615af83ad73f2
-    md5: 2ab6cad58c0aff696c6391dfec2818cb
+    binhash: 2271ae3f4a821795e7d546b20acba935
+    md5: c9fa1ad5f33a4c35756daa0992c3c1c4
 work/ocean/INPUT/ocean_velocity_advection.res.nc.0009:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_velocity_advection.res.nc.0009
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_velocity_advection.res.nc.0009
   hashes:
-    binhash: 7cfefffc44fed63b0707877d1855ad75
-    md5: 0b352c103d6423ae8746a124464957d4
+    binhash: 5b20efe8ee020db3ccd573c9abf0f584
+    md5: e12b06cb65c1b8e9d6374b1686f4c39f
 work/ocean/INPUT/ocean_velocity_advection.res.nc.0010:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_velocity_advection.res.nc.0010
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_velocity_advection.res.nc.0010
   hashes:
-    binhash: 61e27c62b43219a532a6dcbaac4cb779
-    md5: d8103b4d3b9a729aae4c3ddfd72a4169
+    binhash: 8781088fe604e169556621b51809f229
+    md5: 0da82d917920c1bac9ede8ba22a2516f
 work/ocean/INPUT/ocean_velocity_advection.res.nc.0011:
-  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart002/ocean/ocean_velocity_advection.res.nc.0011
+  fullpath: /scratch/e14/rmh561/access-om2/archive/1deg_era5_ryf/restart003/ocean/ocean_velocity_advection.res.nc.0011
   hashes:
-    binhash: 22fcf6e00f492a23c78d4d02639ed193
-    md5: 090e954c6d1b02c47ccd215e252260c0
+    binhash: 35c4680b7fe6d2560ef90e0570308106
+    md5: 1c25a82e602568cc997c1e0d4e0059a4
