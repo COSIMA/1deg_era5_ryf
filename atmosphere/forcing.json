@@ -63,6 +63,16 @@
         ]
     },
     {
+        "coupling_field_name": "runof_ai",
+        "realm": "land",
+        "input_fields": [
+            {
+                "filename": "INPUT/RYF.friver.1990_1991.nc",
+                "fieldname": "friver"
+            }
+        ]
+    },
+    {
         "coupling_field_name": "tair_ai",
         "realm": "atmosphere",
         "input_fields": [
@@ -108,16 +118,6 @@
                 "filename": "INPUT/RYF.10v.1990_1991.nc",
                 "fieldname": "v10",
                 "units": "m s**-1"
-            }
-        ]
-    },
-    {
-        "coupling_field_name": "runof_ai",
-        "realm": "land",
-        "input_fields": [
-            {
-                "filename": "INPUT/RYF.friver.1990_1991.nc",
-                "fieldname": "friver"
             }
         ]
     },
