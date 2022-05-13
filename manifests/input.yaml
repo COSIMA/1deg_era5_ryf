@@ -1,6 +1,11 @@
 format: yamanifest
 version: 1.0
 ---
+work/INPUT/ERA5_MOM025_patch.nc:
+  fullpath: /g/data/e14/rmh561/access-om2/input/ERA-5/remap/prod/ERA5_MOM025_patch.nc
+  hashes:
+    binhash: 87bf203899401cdaceac20c9019c028a
+    md5: efa945034d2b5b992e9f94474c8d914c
 work/INPUT/ERA5_MOM1_patch.nc:
   fullpath: /g/data/e14/rmh561/access-om2/input/ERA-5/remap/prod/ERA5_MOM1_patch.nc
   hashes:
